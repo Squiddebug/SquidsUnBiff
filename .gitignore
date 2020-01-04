@@ -21,3 +21,4 @@ bld/
 
 # Publish Output
 *.[Pp]ublish.xml
+*.pubxml
